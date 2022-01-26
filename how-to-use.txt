@@ -1,6 +1,11 @@
 How to use
 ----------
 
+1) Run the SQL Script for Table creation which is included in Dot Net API Folder
+2) Open the Dot Net Solution and Run the APP
+
+Angular
+
 Run "npm install" inside this project folder to install all dependencies.
 
 Make sure you use the latest version of the CLI (upgrade guide below)

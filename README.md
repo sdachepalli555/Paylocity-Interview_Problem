@@ -1,6 +1,6 @@
+This Project is developed in Angular as Front End, Dot Net Core as API, SQL Server as Backend.
 
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29
 
 ## Development server
 
